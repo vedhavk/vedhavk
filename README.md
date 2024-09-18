@@ -19,10 +19,8 @@
 <br clear="both">
 
 <div align="center">
- [![](https://visitcount.itsvg.in/api?id=vedhavk&icon=0&color=0)](https://visitcount.itsvg.in)
-
+  <img src="https://profile-counter.glitch.me/vedhavk/count.svg?"  />
 </div>
-
 
 ### Tech Stack
 <div align="left">
