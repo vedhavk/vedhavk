@@ -80,7 +80,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vedhavk/vedhavk/output/snake.svg" alt="Snake animation" />
 
 ###
 
