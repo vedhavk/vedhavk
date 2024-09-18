@@ -83,3 +83,15 @@
 <img src="https://raw.githubusercontent.com/vedhavk/vedhavk/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vedhavk/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vedhavk/count.svg?"  />
+</div>
+
+###
