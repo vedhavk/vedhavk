@@ -68,6 +68,8 @@
 ###
 
 <br clear="both">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img src="https://raw.githubusercontent.com/vedhavk/vedhavk/output/snake.svg" alt="Snake animation" />
 
