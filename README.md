@@ -1,5 +1,9 @@
 <br clear="both">
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <h2 align="left">Hi I am Vedha V K</h2>
 
 ###
