@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h4 align="left">Hi I am Vedha V K</h4>
+<h2 align="left">Hi I am Vedha V K</h2>
 
 ###
 
 <br clear="both">
 
-<h5 align="left">A computer science student and an aspiring frontend developer</h5>
+<h3 align="left">A computer science student and an aspiring frontend developer</h3>
 
 ###
 
@@ -81,12 +81,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/vedhavk/vedhavk/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vedhavk/count.svg?"  />
-</div>
 
 ###
 
