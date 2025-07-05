@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently learning cypress <br>🌱 I’m currently learning Python<br>💬 Ask me about Frontend development<br>📫 How to reach me vedhavk2004@gmail.com</p>
+<p align="left">🔭 I’m currently learning cypress <br>🌱 I’m currently learning Node.js<br>💬 Ask me about Frontend development<br>📫 How to reach me vedhavk2004@gmail.com</p>
 
 ###
 
