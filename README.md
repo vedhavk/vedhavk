@@ -6,13 +6,13 @@
 
 <br clear="both">
 
-<h3 align="left">A computer science student and an aspiring frontend developer</h3>
+<h3 align="left">A computer science student and a full stack developer</h3>
 
 ###
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently learning cypress <br>🌱 I’m currently learning Node.js<br>💬 Ask me about Frontend development<br>📫 How to reach me vedhavk2004@gmail.com</p>
+<p align="left">🔭 I’m currently learning web3<br>💬 Ask me about Full stack development<br>📫 How to reach me vedhavk2004@gmail.com</p>
 
 ###
 
