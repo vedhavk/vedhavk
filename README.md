@@ -18,11 +18,9 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vedhavk/count.svg?"  />
-</div>
 
-###
+
+
 
 <br clear="both">
 
