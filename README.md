@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently learning web3<br>💬 Ask me about Full stack development<br>📫 How to reach me vedhavk2004@gmail.com</p>
+<p align="left">🔭 I’m currently learning flask<br>💬 Ask me about Full stack development<br>📫 How to reach me vedhavk2004@gmail.com</p>
 
 ###
 
